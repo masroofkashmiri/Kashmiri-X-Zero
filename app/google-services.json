@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "686910668592",
+    "project_id": "kashmiri-ludo-master",
+    "storage_bucket": "kashmiri-ludo-master.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:686910668592:android:28fc3f3a1f7fa9342692f5",
+        "android_client_info": {
+          "package_name": "com.MasroofKashmiri.KashmiriLudoMaster"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "686910668592-3tofml4laplj9u8ri000vemssdj900pr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.MasroofKashmiri.KashmiriLudoMaster",
+            "certificate_hash": "e6b32162efc37afbf804c4eff4f4c1f612a3f7aa"
+          }
+        },
+        {
+          "client_id": "686910668592-ulvo9kv7sg080pi2hff00v75anca9hje.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOC5GCe8GtgKjucJVLDZQrjYlf9KMG4Cw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "686910668592-ulvo9kv7sg080pi2hff00v75anca9hje.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
